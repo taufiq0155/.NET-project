@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+@{
+    ViewBag.Title = "Edit Channel";
+}
+
+<h2>Edit Channel</h2>
+
+<form method="post">
+    <!-- Hidden Input for Channel ID -->
+    <input type="hidden" value="@Model.ChannelId" name="ChannelId" />
+
+    <!-- Channel Name Input -->
+    <label for="ChannelName">Channel Name:</label>
+    <input type="text" value="@Model.ChannelName" placeholder="Enter Channel Name" name="ChannelName" id="ChannelName" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("ChannelName")</p>
+
+    <!-- Established Year Input -->
+    <label for="EstablishedYear">Established Year:</label>
+    <input type="number" value="@Model.EstablishedYear" placeholder="Enter Established Year" name="EstablishedYear" id="EstablishedYear" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("EstablishedYear")</p>
+
+    <!-- Country Input -->
+    <label for="Country">Country:</label>
+    <input type="text" value="@Model.Country" placeholder="Enter Country" name="Country" id="Country" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("Country")</p>
+
+    <!-- Submit Button -->
+    <input type="submit" value="Save Changes" class="btn btn-success" />
+</form>

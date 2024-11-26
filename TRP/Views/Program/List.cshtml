@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>Program List</h2>
+<a href="/program/create" class="btn btn-primary">Add New Program</a>
+
+@foreach (var group in Model)
+{
+    <h3>@group.ChannelName</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Program ID</th>
+                <th>Program Name</th>
+                <th>TRP Score</th>
+                <th>Air Time</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var program in group.Programs)
+            {
+                <tr>
+                    <td>@program.ProgramId</td>
+                    <td>@program.ProgramName</td>
+                    <td>@program.TRPScore</td>
+                    <td>@program.AirTime</td>
+                    <td>
+                        <a href="/program/edit/@program.ProgramId" class="btn btn-warning">Edit</a>
+                        <a href="/program/delete/@program.ProgramId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

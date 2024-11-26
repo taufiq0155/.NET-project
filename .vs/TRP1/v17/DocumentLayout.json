@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|c:\\users\\mdtaufiqurrahman\\source\\repos\\trp1\\trp\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\dtos\\programgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\programgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\program\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\program\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\trp\\views\\program\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8A022-E7D6-40A6-A9BC-9F0977561BDC}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramController.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Controllers\\ProgramController.cs",
+              "RelativeDocumentMoniker": "TRP\\Controllers\\ProgramController.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Controllers\\ProgramController.cs",
+              "RelativeToolTip": "TRP\\Controllers\\ProgramController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:57:39.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogInDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\LogInDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\LogInDTO.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\LogInDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\LogInDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:24:21.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChannelController.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Controllers\\ChannelController.cs",
+              "RelativeDocumentMoniker": "TRP\\Controllers\\ChannelController.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Controllers\\ChannelController.cs",
+              "RelativeToolTip": "TRP\\Controllers\\ChannelController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:54:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\LogIn\\Login.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\LogIn\\Login.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\LogIn\\Login.cshtml",
+              "RelativeToolTip": "TRP\\Views\\LogIn\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:33:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\List.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\List.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\List.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\List.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:05:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Delete.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:20:13.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Details.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Details.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T19:57:55.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChannelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\ChannelDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\ChannelDTO.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\ChannelDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\ChannelDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:34:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgramDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\ProgramDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\ProgramDTO.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\ProgramDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\ProgramDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:34:59.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "TRP\\Auth\\Logged.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Auth\\Logged.cs",
+              "RelativeToolTip": "TRP\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:29:56.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Edit.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:15:36.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Program\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Program\\Delete.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:57:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "TRP\\Auth\\AdminAccess.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "TRP\\Auth\\AdminAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:29:34.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProgramGroupDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\ProgramGroupDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\ProgramGroupDTO.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\DTOs\\ProgramGroupDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\ProgramGroupDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:49:22.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "TRP\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "TRP\\Controllers\\LogInController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:23:07.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Program\\Create.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Program\\Create.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:15:27.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\EF\\User.cs",
+              "RelativeDocumentMoniker": "TRP\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\EF\\User.cs",
+              "RelativeToolTip": "TRP\\EF\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:24:23.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Create.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Channel\\Create.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:02:44.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "TRP\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TRP\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-22T16:32:22.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Program\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MDTAUFIQURRAHMAN\\source\\repos\\TRP1\\TRP\\Views\\Program\\Edit.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:53:33.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

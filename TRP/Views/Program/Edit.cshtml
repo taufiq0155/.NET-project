@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Program</h2>
+
+<form method="post">
+    <!-- Hidden Input for Program ID -->
+    <input type="hidden" value="@Model.ProgramId" name="ProgramId" />
+
+    <!-- Program Name Input -->
+    <label for="ProgramName">Program Name:</label>
+    <input type="text" value="@Model.ProgramName" placeholder="Enter Program Name" name="ProgramName" id="ProgramName" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("ProgramName")</p>
+
+    <!-- TRP Score Input -->
+    <label for="TRPScore">TRP Score:</label>
+    <input type="number" value="@Model.TRPScore" placeholder="Enter TRP Score (0.0 - 10.0)" name="TRPScore" id="TRPScore" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("TRPScore")</p>
+
+    <!-- Channel Dropdown -->
+    <label for="ChannelId">Channel:</label>
+    <select name="ChannelId" id="ChannelId" class="form-control">
+        <option value="">Select Channel</option>
+        @foreach (var channel in Model.Channels)
+        {
+            <option value="@channel.Value" @(channel.Value == Model.ChannelId.ToString() ? "selected" : "")>@channel.Text</option>
+        }
+    </select>
+    <p class="text-danger">@Html.ValidationMessage("ChannelId")</p>
+
+    <!-- AirTime Input -->
+    <label for="AirTime">Air Time (HH:mm:ss):</label>
+    <input type="text" value="@Model.AirTime" placeholder="Enter Air Time (HH:mm:ss)" name="AirTime" id="AirTime" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("AirTime")</p>
+
+    <!-- Submit Button -->
+    <input type="submit" value="Save Changes" class="btn btn-success" />
+</form>

@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+
+<h2>Channel List</h2>
+
+<!-- Search Form 
+<form method="get" action="/channel/list" class="form-inline mb-3">
+    <div class="form-group">
+        <input type="text" name="search" value="@ViewBag.SearchTerm" class="form-control" placeholder="Search by Channel Name" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>-->
+
+<a href="/channel/create" class="btn btn-primary">Create New Channel</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Channel ID</th>
+            <th>Channel Name</th>
+            <th>Established Year</th>
+            <th>Country</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var channel in Model)
+        {
+            <tr>
+                <td>@channel.ChannelId</td>
+                <td>@channel.ChannelName</td>
+                <td>@channel.EstablishedYear</td>
+                <td>@channel.Country</td>
+                <td>
+
+
+                    <a href="/channel/Details/@channel.ChannelId" class="btn btn-warning">Details</a>
+                    @{
+
+                        var user = (TRP.EF.User)Session["user"];
+                    }
+                    @if (user != null && user.Role == 2)
+
+                    { <a href="/channel/edit/@channel.ChannelId" class="btn btn-warning">Edit</a>
+                    <a href="/channel/delete/@channel.ChannelId" class="btn btn-danger">Delete</a>}
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
